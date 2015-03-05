@@ -1,0 +1,19 @@
+{
+  "name": "ஆத்திசூடி",
+  "description": "Firefox OS சாதனத்திற்க்கான அனைத்து வருக்கங்களையும் கொண்ட அவ்வையின் ஆத்திச்சூடி...",
+  "launch_path": "/index.html",
+  "icons": {
+        "60"  : "/icons/logo60.png",
+        "120" : "/icons/logo120.png",
+        "128" : "/icons/logo128.png"
+  },
+  "version": "1.0",
+  "developer": {
+    "name": "Khaleel Jageer",
+	"url": "https://mozillians.org/en-US/u/jskcse4"
+	},
+  "default_locale": "ta",
+  "installs_allowed_from": ["*"],
+  "fullscreen": "true",
+  "orientation": ["portrait"]
+}
