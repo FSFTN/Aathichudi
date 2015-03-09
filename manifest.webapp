@@ -10,7 +10,7 @@
   "version": "1.0",
   "developer": {
     "name": "Khaleel Jageer",
-	"url": "https://mozillians.org/en-US/u/jskcse4"
+      "url": "https://mozillians.org/en-US/u/jskcse4"
 	},
   "default_locale": "ta",
   "installs_allowed_from": ["*"],
